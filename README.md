@@ -1,1 +1,2 @@
-# Animal_Guessing_Game
+# Animal Guessing Game
+Implementation with C/C++

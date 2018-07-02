@@ -106,6 +106,4 @@ int main(){
 		__fpurge(stdin);
 		cin >> repete;
 	}while(verif_reposta(repete));
-
-
 }
